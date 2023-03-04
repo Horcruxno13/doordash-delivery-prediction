@@ -1,4 +1,4 @@
-# doordash-delivery-prediction
+# Doordash Delivery Prediction
 This data project has been used as a take-home assignment in the recruitment process for the data science positions at DoorDash. The Dataset has been obtained from Stratascratch.com.
 
 In recent years, the popularity of food delivery services has grown significantly, and DoorDash has emerged as a leading player in this market. As more and more people rely on DoorDash to get their meals delivered, it becomes increasingly important for the company to ensure timely deliveries to maintain customer satisfaction. One key factor that affects customer satisfaction is the delivery duration, which refers to the time it takes for the DoorDash driver to pick up the food from the restaurant and deliver it to the customer.
